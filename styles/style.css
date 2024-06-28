@@ -20,7 +20,7 @@
   letter-spacing: 0.025em;
   text-align: left;
   display: flex;
-  gap: 32px;
+  gap: 27px;
 }
 
 .header__links-list-item {
@@ -213,7 +213,6 @@
   margin-left: 64px;
   font-size: 20px;
   line-height: 23.48px;
-  letter-spacing: 0.02em;
 }
 
 .about {
